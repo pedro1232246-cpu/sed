@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 34865,
+      "minecraft:walk_one_cm": 44678,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 452,
+      "minecraft:damage_taken": 90,
+      "minecraft:damage_dealt": 98,
+      "minecraft:play_time": 34865,
+      "minecraft:jump": 160,
+      "minecraft:time_since_death": 34865,
+      "minecraft:drop": 13,
+      "minecraft:sprint_one_cm": 23400,
+      "minecraft:fall_one_cm": 6470,
+      "minecraft:swim_one_cm": 9263,
+      "minecraft:total_world_time": 34865,
+      "minecraft:fly_one_cm": 33095,
+      "minecraft:walk_on_water_one_cm": 1231,
+      "minecraft:crouch_one_cm": 277,
+      "minecraft:sneak_time": 123,
+      "minecraft:climb_one_cm": 7725
+    },
+    "minecraft:used": {
+      "minecraft:egg": 5,
+      "minecraft:mutton": 2,
+      "minecraft:stone_pickaxe": 61,
+      "minecraft:torch": 1,
+      "minecraft:dirt": 2,
+      "minecraft:cobblestone": 10
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 5,
+      "minecraft:dirt": 2,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:cobblestone": 88,
+      "minecraft:flint": 2,
+      "minecraft:ladder": 2,
+      "minecraft:gravel": 2,
+      "minecraft:mutton": 2,
+      "minecraft:torch": 1,
+      "minecraft:raw_copper": 26
+    },
+    "minecraft:mined": {
+      "minecraft:wall_torch": 1,
+      "minecraft:dirt": 1,
+      "minecraft:cobblestone": 9,
+      "minecraft:copper_ore": 10,
+      "minecraft:stone": 36
+    },
+    "minecraft:dropped": {
+      "minecraft:raw_copper": 26,
+      "minecraft:cobblestone": 78,
+      "minecraft:gravel": 2,
+      "minecraft:ladder": 2,
+      "minecraft:flint": 1
+    }
+  },
+  "DataVersion": 4903
+}
